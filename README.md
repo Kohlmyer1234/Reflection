@@ -17,3 +17,8 @@ this week we leared how to encript massages. Useing the ceaser chifer code you c
 # end of fourth week
 ## 9/27/7
 this week we leared about XML and HTML. XML you can make nodes and endless subnodes for any reson you can think of. an example of this is <animals> </animals>. the first part is the opening of the node and the second part is closed using the / mark. HTML we made small web page with about five lines of code. <B> </B> is the same as XML where the first part is opening the command and the second part is closed with the / mark. 
+
+
+# end of fith week
+## 9/27/17
+This week we leareed that i do not like UBUNTU at all and XML is the bane of my sanity. Yesterday we leared how to make html and bullet points. the fonts include h1 to h6. also yesterday we leared how to put pictures on websites by coping the image to UBUNTU. one more thing MR.GOLD DOES NOT LIKE ICECREAM THIS IS NOT A DRILL MR. GOLD DOES NOT LIKE ICECREAM. 
