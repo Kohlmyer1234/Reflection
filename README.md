@@ -22,3 +22,7 @@ this week we leared about XML and HTML. XML you can make nodes and endless subno
 # end of fith week
 ## 9/27/17
 This week we leareed that i do not like UBUNTU at all and XML is the bane of my sanity. Yesterday we leared how to make html and bullet points. the fonts include h1 to h6. also yesterday we leared how to put pictures on websites by coping the image to UBUNTU. one more thing MR.GOLD DOES NOT LIKE ICECREAM THIS IS NOT A DRILL MR. GOLD DOES NOT LIKE ICECREAM. 
+
+# end of sixth week
+## 10/13/17
+this week we redifined our html skills to make our own web sight. in that websight was checkboxs on top of checkboxs and pizza. i was told to get that progect by wednes day and i did s o the class got douhnuts yaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa bbbbbbbbbbbbboooooooooooooooooiiiiiiiiiiiiiiijust for you MR.gold. we also leaed how to make picture.   
