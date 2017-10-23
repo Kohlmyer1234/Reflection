@@ -26,3 +26,7 @@ This week we leareed that i do not like UBUNTU at all and XML is the bane of my 
 # end of sixth week
 ## 10/13/17
 this week we redifined our html skills to make our own web sight. in that websight was checkboxs on top of checkboxs and pizza. i was told to get that progect by wednes day and i did s o the class got douhnuts yaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa bbbbbbbbbbbbboooooooooooooooooiiiiiiiiiiiiiiijust for you MR.gold. we also leaed how to make picture.   
+
+# end of seventh week
+## 10/19/17
+this week we leared how to make lists and made a website to aorder pizza from click able links to order different toppings sizes and crusts. Also we started CSS and how to make the background of our website a picture or gif, and how to center that image. We leared how to cange the font font size and also the color of the text.
