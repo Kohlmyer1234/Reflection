@@ -30,3 +30,7 @@ this week we redifined our html skills to make our own web sight. in that websig
 # end of seventh week
 ## 10/19/17
 this week we leared how to make lists and made a website to aorder pizza from click able links to order different toppings sizes and crusts. Also we started CSS and how to make the background of our website a picture or gif, and how to center that image. We leared how to cange the font font size and also the color of the text.
+
+# end of eight
+## 10/27/17
+this week we reifined our Css skills to make our hobby-sites. my hobby site sartted as Infinite warfrare but i changed it to battle front 2 the best starwars game ever. i made the the backgroud red and the banner blue. The title of my website I named it WATCH THOSE WRIST ROCKETS.
