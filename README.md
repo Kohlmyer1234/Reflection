@@ -34,3 +34,8 @@ this week we leared how to make lists and made a website to aorder pizza from cl
 # end of eight
 ## 10/27/17
 this week we reifined our Css skills to make our hobby-sites. my hobby site sartted as Infinite warfrare but i changed it to battle front 2 the best starwars game ever. i made the the backgroud red and the banner blue. The title of my website I named it WATCH THOSE WRIST ROCKETS.
+
+# end of nine
+## 11/3/17
+thsi week we finished our websites my website was about battle front 2. this is my favorite game of all time. I played this game hours on end. silly won the bet with noll. yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaayyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy.floiegirjref]ef4ger.Xy
+
