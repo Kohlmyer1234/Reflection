@@ -40,9 +40,9 @@ this week we reifined our Css skills to make our hobby-sites. my hobby site sart
 thsi week we finished our websites my website was about battle front 2. this is my favorite game of all time. I played this game hours on end. silly won the bet with noll. yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaayyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy.floiegirjref]ef4ger.Xy
 
 # end of week ten 
-## 12/17/17
+## 11/17/17
 this week we learned more about the musem under scot Jhonson hall. It is very beautilful and a great experience every time I go in. My project si about SJNMA during the 1930's to the 1950's. I foucosed on the years 1931 and 1932 talking about each years yearbook and also each years class stone. everything was in great condition and very cool to look into the past and how everything was run. my favorite part was the fact that was are using the same cross now that was used in 1931.
 
 # end of week eleven 
-#11/31/17
+#12/1/17
 this week we started to learn how to put our code into a joint website where every one can put their own code. I find it frustrating but also quite helpful to everyone. It is also very convinent to see everyone's code at the sametime. the one thing about is the conflicts happen so often but are usually easy to fix.
