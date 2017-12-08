@@ -46,3 +46,7 @@ this week we learned more about the musem under scot Jhonson hall. It is very be
 # end of week eleven 
 ## 12/1/17
 this week we started to learn how to put our code into a joint website where every one can put their own code. I find it frustrating but also quite helpful to everyone. It is also very convinent to see everyone's code at the sametime. the one thing about is the conflicts happen so often but are usually easy to fix.
+
+# end of week twelve 
+## 12/8/17
+this week we learned boot strap and how it worked. Bootstrap works by alowing you to put your code on a phone or smaller computor. It works by pushing text that does not fit in the space provided down lower in page. 
