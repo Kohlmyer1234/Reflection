@@ -50,3 +50,7 @@ this week we started to learn how to put our code into a joint website where eve
 # end of week twelve 
 ## 12/8/17
 this week we learned boot strap and how it worked. Bootstrap works by alowing you to put your code on a phone or smaller computor. It works by pushing text that does not fit in the space provided down lower in page. 
+
+# end of week 13
+## 12/15/17
+thsi week we refied our website. It took a while but Gorgano came in withh the clutch and fixed the whole website. Net nurtrality was repeald yayyyyyyy!!!. But on another note the website went well. it was a bit rocky at the start but it worked well at the end.
