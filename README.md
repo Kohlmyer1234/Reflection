@@ -54,3 +54,8 @@ this week we learned boot strap and how it worked. Bootstrap works by alowing yo
 # end of week 13
 ## 12/15/17
 thsi week we refied our website. It took a while but Gorgano came in withh the clutch and fixed the whole website. Net nurtrality was repeald yayyyyyyy!!!. But on another note the website went well. it was a bit rocky at the start but it worked well at the end.
+
+#end of week 14
+## 1/12/18
+this is the last week of computor fundementals. this class had a rough start for me (mr.Gold you know what im taking about). This was a good class with a good challlange. this quarter i am trying to get dean's list so i can get a PS4 from my parants. Finals are starting in a few days it is pretty stressful, there is a lot going on including many study guides and tons of projects
+
